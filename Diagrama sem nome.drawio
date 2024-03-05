@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T22:08:49.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.2" etag="FwhFSr0QqGWxuJYDrZHd" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T22:17:51.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="oMmfE4Hnrbg73ks-eNux" version="24.0.2" type="github">
   <diagram name="Página-1" id="45U9C90t3IE2PMQWCZsL">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fVh4wQBqWlf3j8a7--yz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fVh4wQBqWlf3j8a7--yz-1" target="fVh4wQBqWlf3j8a7--yz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVh4wQBqWlf3j8a7--yz-1" value="Analista de Compras&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fVh4wQBqWlf3j8a7--yz-2" value="&lt;div&gt;UC-01&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Fazer pedido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="90" width="136" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fVh4wQBqWlf3j8a7--yz-4" value="&lt;div&gt;UC-02&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Vender produtos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="210" width="128" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fVh4wQBqWlf3j8a7--yz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fVh4wQBqWlf3j8a7--yz-6" target="fVh4wQBqWlf3j8a7--yz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fVh4wQBqWlf3j8a7--yz-6" value="Analista de Vendas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
